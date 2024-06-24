@@ -1,0 +1,4 @@
+Herbert Burton hsburton@my.waketech.edu
+My Github accocunt will be addressing homelessness and hunger
+I created an initial commit, I later updated README.md
+I first created a remote repository, then I had to create a new folder on my harddrive to have a local copy on my computer, to clone the original repository.
